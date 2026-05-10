@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    transform: scale(2);
+    padding: 30px;
+    color: yellow;
+}
+body {
+    background-color: black;
+}
+
+
+.pr {
+    color: darkgoldenrod;
+}
+.pr:hover{
+    color: yellow;
+    transform: scale(1.01);
+}
+h2 {
+    color: wheat;
+    padding: 10px;
+    width: 80%;
+    padding-left: 20px;
+}
+h2:hover{
+    color: blue;
+    
+}
+.air {
+    color: red;
+}
+
+p {
+    transform: scale(1.5);
+    text-align: center;
+}
+
+.nav {
+    color: blue;
+}
+.arm {
+    color: green;
+}
